@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Manikandan Adaikalam (aka ManiZiva)
+# 👋 Hi there, I'm Manikandan Adaikalam (ManiZiva)
 
 **QA Engineer** | Passionate about **software quality and reliability** | Skilled in **Automation & Manual Testing**
 
