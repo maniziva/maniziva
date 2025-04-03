@@ -45,11 +45,24 @@
 
 ## 🌐 Connect with Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=firefox&logoColor=white)](https://maniziva.github.io/MyPortfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manikandan-adaikalam)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:manizivamsd@gmail.com)
-[![X](https://img.shields.io/badge/X-%23121212.svg?logo=X&logoColor=white&style=for-the-badge)](https://x.com/mani_ziva)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/maniziva)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://facebook.com/mani.ziva)
-
+<p align="center">
+  <a href="https://maniziva.github.io/MyPortfolio/" target="_blank" style="margin-right: 10px;">
+    <img src="https://img.icons8.com/ios-filled/48/000000/domain.png" alt="Portfolio" style="margin: 0 10px;" />
+  </a>
+  <a href="https://linkedin.com/in/manikandan-adaikalam" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/48/0077B5/linkedin.png" alt="LinkedIn" style="margin: 0 10px;" />
+  </a>
+  <a href="mailto:manizivamsd@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/48/D14836/gmail.png" alt="Gmail" style="margin: 0 10px;" />
+  </a>
+  <a href="https://x.com/mani_ziva" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/48/000000/twitterx--v2.png" alt="X" style="margin: 0 10px;" />
+  </a>
+  <a href="https://instagram.com/maniziva" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/48/E4405F/instagram-new.png" alt="Instagram" style="margin: 0 10px;" />
+  </a>
+  <a href="https://facebook.com/mani.ziva" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/48/1877F2/facebook-new.png" alt="Facebook" style="margin: 0 10px;" />
+  </a>
+</p>
 ---
