@@ -1,12 +1,10 @@
 # 👋 Hi there, I'm Manikandan Adaikalam (ManiZiva)
 
 ## 🧑‍💻 About Me
-- 🔍 7+ years of experience as a QA Engineer
-- 🛠️ Hands-on with **Playwright**, **Selenium**, **Jmeter**, **Cypress**, **Java**, and **TypeScript**
-- ✅ Expertise in **test automation**, **API testing**, **CI/CD integration**, and **database validation**
-- 🌱 Constantly learning and exploring new tools and tech
-- 📈 Focused on delivering seamless software experiences with a strong quality mindset
-
+- 🎓 Computer Science Graduate with a passion for testing and quality engineering
+- 🧪 QA Engineer with 7+ years of experience in automation and manual testing
+- 📍 Based in Tamil Nadu, India
+- 🧠 Always learning — currently enhancing skills in performance testing, API automation, and modern CI/CD practices
 ---
 
 ## 💻 Tech Stack
