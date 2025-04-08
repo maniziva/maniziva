@@ -15,6 +15,7 @@
 ![Selenium WebDriver](https://img.shields.io/badge/Selenium%20WebDriver-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
 ![Selenium IDE](https://img.shields.io/badge/Selenium%20IDE-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-%23172BF4.svg?style=for-the-badge&logo=cypress&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C.svg?style=for-the-badge&logo=cucumber&logoColor=white)
 ![Katalon Test Studio](https://img.shields.io/badge/Katalon-32C766.svg?style=for-the-badge&logo=katalon&logoColor=white)
 
 ### 📊 Performance Testing
