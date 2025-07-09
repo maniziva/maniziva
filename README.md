@@ -1,10 +1,10 @@
 # 👋 Hi there, I'm Manikandan Adaikalam (ManiZiva)
 
 ## 👨‍💼 About Me
-- 🎓 Computer Science Graduate with a passion for testing and quality engineering  
-- 🧪 QA Engineer with 7+ years of experience in automation and manual testing  
-- 📍 Based in Tamil Nadu, India  
-- 🧠 Always learning — currently enhancing skills in performance testing, API automation, and modern CI/CD practices  
+- 🎓 Computer Science Graduate with a passion for Testing and Quality Engineering  
+- 🧪 QA Engineer with 7+ years of experience in Automation and Manual testing  
+- 📍 Based in Pudukkottai, Tamil Nadu.
+- 🧠 Always learning — currently enhancing skills in API automation, Performance testing and modern CI/CD practices  
 
 ---
 
@@ -18,18 +18,18 @@
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C.svg?style=for-the-badge&logo=cucumber&logoColor=white)
 ![Katalon Test Studio](https://img.shields.io/badge/Katalon-32C766.svg?style=for-the-badge&logo=katalon&logoColor=white)
 
-### 📊 Performance Testing
-![JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128.svg?style=for-the-badge&logo=apache-jmeter&logoColor=white)
-![Fiddler](https://img.shields.io/badge/Fiddler-009688.svg?style=for-the-badge&logoColor=white)
+### ⚙️ CI/CD & DevOps
+![CircleCI](https://img.shields.io/badge/CircleCI-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 🔌 API Testing
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-%23000000.svg?style=for-the-badge&logo=playwright&logoColor=white)
 
-### ⚙️ CI/CD & DevOps
-![CircleCI](https://img.shields.io/badge/CircleCI-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+### 📊 Performance Testing
+![JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128.svg?style=for-the-badge&logo=apache-jmeter&logoColor=white)
+![Fiddler](https://img.shields.io/badge/Fiddler-009688.svg?style=for-the-badge&logoColor=white)
 
 ### 💻 Programming Languages
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
