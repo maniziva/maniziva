@@ -26,6 +26,7 @@
 ### 🔌 API Testing
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-%23000000.svg?style=for-the-badge&logo=playwright&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-5849BE.svg?style=for-the-badge&logo=insomnia&logoColor=white)
 
 ### 📊 Performance Testing
 ![JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128.svg?style=for-the-badge&logo=apache-jmeter&logoColor=white)
@@ -44,6 +45,7 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepadplusplus&logoColor=black)
+![Cursor](https://img.shields.io/badge/Cursor-000000.svg?style=for-the-badge&logo=cursor&logoColor=white)
 
 ### 🧾 Testcase Management & Collaboration Tools
 ![TestRail](https://img.shields.io/badge/TestRail-1f6feb?style=for-the-badge&logoColor=white)
