@@ -54,8 +54,13 @@
 ![Miro](https://img.shields.io/badge/Miro-050038.svg?style=for-the-badge&logo=miro&logoColor=white)
 ![draw.io](https://img.shields.io/badge/Draw.io-F08705.svg?style=for-the-badge&logo=diagrams-dot-net&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+### 🤖 AI Tools
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/Copilot-1e2b3c?style=for-the-badge&logo=github&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-0F766E?style=for-the-badge&logo=perplexity&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)
 ---
 
 ## 🌐 Connect with Me
