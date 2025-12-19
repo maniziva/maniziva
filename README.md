@@ -2,7 +2,7 @@
 
 ## 👨‍💼 About Me
 - 🎓 Computer Science Graduate with a passion for Testing and Quality Engineering  
-- 🧪 Lead - Quality with 7+ years of experience in Automation and Manual testing  
+- 🧪 Senior QA Engineer with 7+ years of experience in Automation and Manual testing  
 - 📍 Based in Pudukkottai, Tamil Nadu.
 - 🧠 Always learning — currently enhancing skills in API automation, Performance testing and modern CI/CD practices  
 
